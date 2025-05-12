@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a hostel management system using flutter<br>I am looking to collaborate on open source projects in Front end development and mobile development using flutter<br>I am currently learning Python, Flutter and Artificial Intelligence<br>
+I'm currently working on a Handyman service app that connects users to service providers using flutter<br>I am looking to collaborate on open source projects in Front end development and mobile development using flutter<br>I am currently learning Python, Flutter and Artificial Intelligence<br>
 
 
 ## 🌐 Socials:
